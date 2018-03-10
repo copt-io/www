@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:copt-io/copt-io.github.io.git
+	branch = master
