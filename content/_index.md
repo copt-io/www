@@ -1,5 +1,6 @@
 +++
 title = "Copt Home Page"
-+++
+type = "page"
 
-This is copt.io
++++
+This is copt.io!
