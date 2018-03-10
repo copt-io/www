@@ -1,0 +1,4 @@
+baseURL = "http://copt.io/"
+languageCode = "en-us"
+title = "Copt Site"
+theme = "bare"
